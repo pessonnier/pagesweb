@@ -1,15 +1,16 @@
-# pagesweb
-à voir
+# pagesweb à voir
 
-# raspberry
+## raspberry
  - pitft
   - install https://learn.adafruit.com/adafruit-pitft-28-inch-resistive-touchscreen-display-raspberry-pi/playing-videos
   - mini projet https://learn.adafruit.com/raspi-animated-gif-picture-frame/making-changes
   - faq qui parle de hdmi https://learn.adafruit.com/adafruit-pitft-28-inch-resistive-touchscreen-display-raspberry-pi/faq
   - FRAMEBUFFER=/dev/fb0 startx
  - audio
-# arduino
-# gnuradio
+ 
+## arduino
+
+## gnuradio
  - tuto gnuradio http://gnuradio.org/redmine/projects/gnuradio/wiki/Tutorials
  - la page du createur du hackrf http://greatscottgadgets.com/
  - exemple rtl sdr http://www.rtl-sdr.com/
