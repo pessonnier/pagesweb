@@ -22,4 +22,8 @@
  - Wireless Alarm https://funoverip.net/2014/11/reverse-engineer-a-verisure-wireless-alarm-part-1-radio-communications/
  - https://www.bastibl.net/traffic-lights/  https://www.bastibl.net/reversing-bus-telemetry/
  - exemples http://fatsquirrel.org/oldfartsalmanac/random/reverse-engineering-a-vintage-wireless-keypad-with-an-rtl-sdr/ voir bas de page
- 
+
+## data
+ - cifar-10 / 100 http://www.cs.toronto.edu/~kriz/cifar.html http://caffe.berkeleyvision.org/gathered/examples/cifar10.html
+ - Visual Dictionary http://groups.csail.mit.edu/vision/TinyImages/
+ - caffe deep learning image http://caffe.berkeleyvision.org/
