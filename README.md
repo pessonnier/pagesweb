@@ -6,7 +6,9 @@
   - mini projet https://learn.adafruit.com/raspi-animated-gif-picture-frame/making-changes
   - faq qui parle de hdmi https://learn.adafruit.com/adafruit-pitft-28-inch-resistive-touchscreen-display-raspberry-pi/faq
   - FRAMEBUFFER=/dev/fb0 startx
+  - exemple de code pygame pour faire une animation https://learn.adafruit.com/raspipe-a-raspberry-pi-pipeline-viewer/pygame
  - audio
+  - http://www.raspberrypi-spy.co.uk/2013/06/raspberry-pi-command-line-audio/
  
 ## arduino
 
