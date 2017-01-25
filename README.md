@@ -29,3 +29,6 @@
  - cifar-10 / 100 http://www.cs.toronto.edu/~kriz/cifar.html http://caffe.berkeleyvision.org/gathered/examples/cifar10.html
  - Visual Dictionary http://groups.csail.mit.edu/vision/TinyImages/
  - caffe deep learning image http://caffe.berkeleyvision.org/
+
+## chien
+ - http://www.lebonchien.fr/chien/welsh-corgi-cardigan.html
